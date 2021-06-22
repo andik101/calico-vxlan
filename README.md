@@ -2,7 +2,7 @@
 Enabled VXLAN on the default IP pool
 
 
-## Fixed the Calcio crash issue
+## Fixed the calico crash issue
 Calico supports two types of encapsulation: VXLAN and IP in IP. VXLAN is supported in some environments where IP in IP is not (for example, Azure, AWS)
 
 ### Calico MTU with VXLAN (IPv4)
